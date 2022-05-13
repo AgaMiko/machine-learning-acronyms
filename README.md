@@ -1,11 +1,23 @@
 ![Machine learning acronyms and abbreviations banner](https://github.com/AgaMiko/machine-learning-acronyms/blob/main/banner.png)
 
-# Machine learning acronyms and abbreviations
-A comprehensive list of ML and AI acronyms and abbreviations.
+# Machine learning acronyms and abbreviations 🤖
+A comprehensive list of ML and AI acronyms and abbreviations. Feel free to :star: it!
 
-Machine learning is rapidly growing, creating more mysterious acronyms and abbreviations that might be challenging to follow, especially for beginners. This abbreviations list was created when I collected all acronyms from my Ph.D. thesis. Surprised by the enormous number, I searched through the web to copy and paste them to save time on writing. I found a few lists, but none covered all I needed. I decided to gather all this info in a single Table to make it easier to fellow ML enthusiasts.
+Machine learning is rapidly growing, creating more mysterious acronyms and abbreviations that might be challenging to follow, especially for beginners. 
+This abbreviations list was created when I collected all acronyms from my Ph.D. thesis. 
+Surprised by the enormous number, I searched through the web to copy and paste them to save time on writing. 
+I found a few lists, but none covered all I needed. 
+I decided to gather all this info in a single Table to make it easier to fellow ML enthusiasts.
 
-## Contributing
+## Sources 📖
+* Contributors knowledge
+* [A Comprehensive Survey on Machine Learning for Networking Evolution Applications and Research Opportunities](https://www.researchgate.net/publication/325107577_A_Comprehensive_Survey_on_Machine_Learning_for_Networking_Evolution_Applications_and_Research_Opportunities)
+* [Deep learning acronym cheatsheet](https://www.codingforentrepreneurs.com/blog/deep-learning-acronym-cheatsheet)
+* [Machine learning acronyms list](https://machinelearning.wtf/acronyms/)
+* [Awesome deep learning music](https://github.com/ybayle/awesome-deep-learning-music/blob/master/acronyms.md)
+* [Hearai.pl/paperslang/](https://hearai.netlify.app/post/9-paperslang/)
+
+## Contributing 📝
 
 Feel free to:
 * add any ML-related abbreviation, 
@@ -20,7 +32,7 @@ Abbreviations should be in alphabetical order.
 I have added a link to the [online doc](https://docs.google.com/spreadsheets/d/1dUyG1XGAY5EQiScK6HwgYRkn63y2rqL4gUn9S45Ca2M/edit?usp=sharing) with all abbreviations to make it easier for you to contribute. Feel free to add a new one and sort the table automatically. You can copy the table from Google Sheets to the markdown table generator: https://www.tablesgenerator.com/markdown_tables.
 
 
-# The list
+# The list 📑
 
 | **No.** 	| **Acronym**       	| **Description**                                                                                         	| **Definition**                                                                                                                                                                                                                                                                       	|
 |---------	|-------------------	|---------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
