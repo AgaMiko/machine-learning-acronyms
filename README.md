@@ -1,14 +1,21 @@
+![Machine learning acronyms and abbreviations banner](https://github.com/AgaMiko/machine-learning-acronyms/blob/main/banner.png)
+
 # Machine learning acronyms and abbreviations
 A comprehensive list of ML and AI acronyms and abbreviations.
 
 Machine learning is rapidly growing, creating more mysterious acronyms and abbreviations that might be challenging to follow, especially for beginners. This abbreviations list was created when I collected all acronyms from my Ph.D. thesis. Surprised by the enormous number, I searched through the web to copy and paste them to save time on writing. I found a few lists, but none covered all I needed. I decided to gather all this info in a single Table to make it easier to fellow ML enthusiasts.
+
+## Contributing
 
 Feel free to:
 * add any ML-related abbreviation, 
 * add the definition alone, 
 * add an issue.
 
-Currently, only 30% of abbreviations have descriptions, so feel free to add them! It should be a brief and concise one-liner rather than explain the whole subject. Abbreviations should be in alphabetical order. 
+Currently, ~**30%** of abbreviations have descriptions, so feel free to add them! 
+It should be a **brief and concise one-liner** rather than explain the whole subject.
+The purpose is to quickly find the meaniong of abbreviation, and the given definition helps to undersdtand if it matches the context.
+Abbreviations should be in alphabetical order. 
 
 I have added a link to the [online doc](https://docs.google.com/spreadsheets/d/1dUyG1XGAY5EQiScK6HwgYRkn63y2rqL4gUn9S45Ca2M/edit?usp=sharing) with all abbreviations to make it easier for you to contribute. Feel free to add a new one and sort the table automatically. You can copy the table from Google Sheets to the markdown table generator: https://www.tablesgenerator.com/markdown_tables.
 
