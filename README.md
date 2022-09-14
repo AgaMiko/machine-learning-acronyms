@@ -26,7 +26,7 @@ Feel free to:
 
 Currently, ~**30%** of abbreviations have descriptions, so feel free to add them! 
 It should be a **brief and concise one-liner** rather than explain the whole subject.
-The purpose is to quickly find the meaniong of abbreviation, and the given definition helps to undersdtand if it matches the context.
+The purpose is to quickly find the meaning of an abbreviation, and the given definition helps to understand if it matches the context.
 Abbreviations should be in alphabetical order. 
 
 I have added a link to the [online doc](https://docs.google.com/spreadsheets/d/1dUyG1XGAY5EQiScK6HwgYRkn63y2rqL4gUn9S45Ca2M/edit?usp=sharing) with all abbreviations to make it easier for you to contribute. Feel free to add a new one and sort the table automatically. You can copy the table from Google Sheets to the markdown table generator: https://www.tablesgenerator.com/markdown_tables.
